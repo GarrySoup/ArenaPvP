@@ -1,0 +1,4 @@
+name: ArenaPvP
+version: '${project.version}'
+main: me.cashier.arenapvp.ArenaPvP
+authors: [ Cashier420 ]
